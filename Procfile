@@ -1,0 +1,1 @@
+web: gunicorn okr.wsgi:application 
