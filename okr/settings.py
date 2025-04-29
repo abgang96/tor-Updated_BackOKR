@@ -28,7 +28,7 @@ DEBUG = False
 ALLOWED_HOSTS = ['tor-updated-backokr.onrender.com', 'localhost', '127.0.0.1']
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:4200",
+    "http://localhost:4200", "https://tor-tech-hr.vercel.app/"
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
